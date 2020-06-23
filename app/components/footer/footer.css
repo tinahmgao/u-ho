@@ -1,0 +1,15 @@
+.copyright {
+  background-color: transparent;
+  color: #666666;
+  font-size: 0.8rem;
+  width: 100%;
+  padding: 1.5rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 5px 0 5px rgba(0, 0, 0, 0.3);
+}
